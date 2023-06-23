@@ -1,4 +1,4 @@
-# Hey, I'm Dhruval 👋
+# Hey, I'm Devesh Mani Tripathi 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-@DhruvalGupta4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhruvalGupta4)](https://twitter.com/DhruvalGupta4)  [![Linkedin Badge](https://img.shields.io/badge/-@DhruvalGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruval-gupta-98889a159/)](https://www.linkedin.com/in/dhruval-gupta-98889a159/)
 
